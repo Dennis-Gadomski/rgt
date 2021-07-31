@@ -1,0 +1,1 @@
+CREATE TABLE player (PRIMARY KEY (id),name VARCHAR (100) NOT NULL);

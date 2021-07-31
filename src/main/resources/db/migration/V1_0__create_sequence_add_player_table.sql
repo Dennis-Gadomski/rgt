@@ -1,0 +1,2 @@
+CREATE SEQUENCE hibernate_sequence START 1;
+CREATE TABLE player (id serial NOT NULL PRIMARY KEY,name VARCHAR (100) NOT NULL);
